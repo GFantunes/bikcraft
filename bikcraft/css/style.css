@@ -18,5 +18,7 @@
 
 @import "home/depoimento.css";
 
-@import "seguros/seguros.css"
+@import "seguros/seguros.css";
+
+@import "global/footer.css";
 
