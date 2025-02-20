@@ -97,7 +97,7 @@
     color: var(--cor-6);
 }
 
-@media (max-witdh: 800px) {
+@media (max-width: 800px) {
     .bicicleta {
         grid-template-columns: 1fr;
         padding-top: 40px;
@@ -109,7 +109,7 @@
     }
 }
 
-@media (max-witdh: 400px) {
+@media (max-width: 400px) {
     .bicicleta-informacoes {
         grid-template-columns: 1fr;
     }
